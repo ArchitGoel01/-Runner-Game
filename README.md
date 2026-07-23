@@ -97,22 +97,9 @@ python main.py
 
 Example:
 
-```markdown
+```
+
 <img width="997" height="541" alt="Screenshot 2026-07-23 150325" src="https://github.com/user-attachments/assets/096c3ef4-0d6a-4bed-97ac-4c555c3ba21d" />
-
-
-## 🎯 Game Objective
-
-- Avoid all incoming obstacles.
-- Survive as long as possible.
-- Beat your previous high score.
-- Challenge your friends!
-
----
-
-## 📈 High Score System
-
-The game automatically saves your highest score inside:
 
 ```
 high_score.txt
