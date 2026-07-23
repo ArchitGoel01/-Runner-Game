@@ -95,11 +95,8 @@ python main.py
 
 ## 📸 Gameplay
 
-Example:
-
-```
-
-<img width="997" height="541" alt="Screenshot" src="https://github.com/user-attachments/assets/c343b781-86ac-4bf6-9dd4-b00b2ead5100" />
+![Runner Game Screenshot](<img width="997" height="541" alt="Screenshot" src="https://github.com/user-attachments/assets/f965178f-e6ca-4044-ac22-a199094921eb" />
+)
 
 ```
 high_score.txt
