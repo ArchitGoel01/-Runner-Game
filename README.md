@@ -99,7 +99,7 @@ Example:
 
 ```
 
-<img width="997" height="541" alt="Screenshot 2026-07-23 150325" src="https://github.com/user-attachments/assets/096c3ef4-0d6a-4bed-97ac-4c555c3ba21d" />
+<img width="997" height="541" alt="Screenshot" src="https://github.com/user-attachments/assets/c343b781-86ac-4bf6-9dd4-b00b2ead5100" />
 
 ```
 high_score.txt
