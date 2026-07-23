@@ -98,7 +98,8 @@ python main.py
 Example:
 
 ```markdown
-<img width="997" height="541" alt="Gameplay" src="https://github.com/user-attachments/assets/65cc8689-6b7e-4fa9-bd96-c1a7d2cc23d2" />```
+<img width="997" height="541" alt="Screenshot 2026-07-23 150325" src="https://github.com/user-attachments/assets/096c3ef4-0d6a-4bed-97ac-4c555c3ba21d" />
+
 
 ## 🎯 Game Objective
 
