@@ -95,7 +95,7 @@ python main.py
 
 ## 📸 Gameplay
 
-![Runner Game Screenshot]<img width="997" height="541" alt="Screenshot" src="https://github.com/user-attachments/assets/f965178f-e6ca-4044-ac22-a199094921eb" />
+<img width="997" height="541" alt="Screenshot" src="https://github.com/user-attachments/assets/f965178f-e6ca-4044-ac22-a199094921eb" />
 
 ```
 high_score.txt
