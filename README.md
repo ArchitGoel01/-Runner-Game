@@ -98,7 +98,7 @@ python main.py
 Example:
 
 ```
-<img width="997" height="541" alt="image" src="https://github.com/user-attachments/assets/65cc8689-6b7e-4fa9-bd96-c1a7d2cc23d2" />
+img width="997" height="541" alt="image" src="https://github.com/user-attachments/assets/65cc8689-6b7e-4fa9-bd96-c1a7d2cc23d2" /
 ```
 
 ## 🎯 Game Objective
